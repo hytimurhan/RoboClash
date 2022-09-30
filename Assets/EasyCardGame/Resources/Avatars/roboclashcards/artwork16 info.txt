@@ -1,0 +1,12 @@
+Engineer Robo
+
+Healer
+
+These Robos, which have a very light armor and load, are designed to go every point of the
+battlefield quickly and perform repair operations.
+
+Effect Range 11
+Effects Both Rows
+Heals By 3
+
+Points on Death 4

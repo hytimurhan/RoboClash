@@ -1,0 +1,80 @@
+{
+    "Name": "Yuri Borislava",
+    "Desc": "Yuri Borislava has made a big name for\r\nhimself over the years as one of the\r\nheroes of the Arctic Ocean Federation.\r\nDuring the great war, when he witnessed\r\nthe destruction coused by the robos,\r\nhe started a rebellion, thinking that\r\nevery robo with artificial intelligence\r\nshould be destroyed. He was pardoned after\r\nwar is over for displaying his skill at\r\nRoboClash tournaments and demonstrating\r\nhis country's strength.",
+    "Avatar": "artwork14",
+    "RareColor": {
+        "x": 0.005873965565115213,
+        "y": 0.16166849434375764,
+        "z": 0.4150943160057068,
+        "w": 0.0
+    },
+    "EffectParticle": "Poison",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 1,
+    "EffectBothRows": false,
+    "DropRate": 1,
+    "_Health": 6,
+    "_Points": 7,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 2,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "",
+    "_CounterEffects": [],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 1,
+    "_RangedEffectParticle": "",
+    "_RangedEffectRange": 0,
+    "_RangedEffectBothRows": false
+}

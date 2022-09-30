@@ -1,0 +1,18 @@
+{
+    "Name": "AirDrop",
+    "Desc": "Don't worry guys,\r\nyou won't be without fuel or ammunition.\r\nair force at your service.\r",
+    "Avatar": "artwork17",
+    "RareColor": {
+        "x": 0.09526269882917404,
+        "y": 0.9905660152435303,
+        "z": 0.07008720934391022,
+        "w": 0.0
+    },
+    "EffectParticle": "Airsup",
+    "CardInteractionType": 1,
+    "CardType": 1,
+    "EffectRange": 5,
+    "EffectBothRows": false,
+    "DropRate": 30,
+    "_Heal": 3
+}

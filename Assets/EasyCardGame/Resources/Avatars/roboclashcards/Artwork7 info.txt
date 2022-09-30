@@ -1,0 +1,16 @@
+XIUYING CHAMPION OF FAR EAST CONFEDERATION
+Attacker
+Ranged
+Healt 7
+
+Xiuying was trained for many years to become the brightest Robo Driver
+in the far east confederation. Disciplined and hardworking, Xiuying has never
+embarrassed her country so far.
+
+Attack
+
+Effect Range 3
+Elemantal 4
+
+Points on Death 9
+

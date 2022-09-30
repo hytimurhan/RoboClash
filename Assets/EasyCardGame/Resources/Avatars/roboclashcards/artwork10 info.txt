@@ -1,0 +1,23 @@
+Hunter (Skeletaldragon)
+Attacker
+Ranged
+Health 7
+
+Hunters are extremely fast moving and highly maneuverable combat drones.
+They have been very effective in bringing destruction to battlefields from the skies.
+
+Attack
+
+Poison 0 ( Default 7 )
+Physical 7 ( Default 0 )
+Fire 1 ( Default 0 )
+
+Resistance
+
+Physical 4
+Fire 0 ( Default 5 )
+Cold 0 ( Default 3 )
+Poison 2
+Lightning 1
+
+Points on Death 11 ( Default 16 )

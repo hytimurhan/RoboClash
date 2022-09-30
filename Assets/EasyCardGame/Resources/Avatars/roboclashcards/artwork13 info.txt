@@ -1,0 +1,29 @@
+Destroyer Robo
+Health 8
+
+Attacker
+Melee
+
+Build to withstand all kinds of attacks, destroyers are one of the most feared
+elements of the battlefield. These robos, which do not hesitate to enter very
+close range due their solid armor, can perform very destructive attacks and counterattacks.
+
+Attack
+
+Effect Range 3
+Physical 6
+
+
+Resistance
+
+Physical 2
+Cold 3
+Magnetic 1
+
+
+Counter Attack
+
+Physical 4
+
+
+Points on Death 9

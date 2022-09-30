@@ -1,0 +1,29 @@
+RAD K'AALEN - CHAMPION OF FREE MARTIAN COLONIES 
+
+Health 7
+
+ATTACKER
+MELEE
+
+Rad K'aalen is one of the first humans born outside the earth. Raised as a child of one of the families
+that migrated to the Martian Colonies, Rad K'aalenn participated in the colonies first rebellion againts
+planet earth. He later joined the army and soon his talents were recognized. He gained plenatary fame for
+his achievements againts the allience of planet earth againts to the colonies. Currently, he aims to show
+the strength of the colonies by fighting in RoboClash tournaments.
+
+
+Attack
+
+Physical 2
+
+Magnetic 2
+
+
+
+Resistance
+
+Cold 1
+Magnetic 2
+Elemental 1
+
+Points on Death 8

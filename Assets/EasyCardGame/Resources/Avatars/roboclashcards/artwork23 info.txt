@@ -1,0 +1,20 @@
+Missile Launcher Robo ( goblin )
+Attacker
+
+Health 5
+
+These robos were designed only as mobile war machines
+capable of high accuracy missile attacks.
+
+Attack
+
+Physical 3 ( Default 1 )
+Fire 2  ( Default 0 )
+Poison 0 ( Default 1 )
+
+Resistance
+
+Physical 2  ( Default 0 )
+Poison 0 ( Default 1 )
+
+Points on Death 3 ( Default 7 )

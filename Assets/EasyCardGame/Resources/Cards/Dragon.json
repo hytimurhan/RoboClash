@@ -1,0 +1,80 @@
+{
+    "Name": "Junkmaker",
+    "Desc": "These robots were produced extremely\r\nrarely because they were quite expensive.\r\nThese gigantic robos had no trouble\r\nwreaking havoc on the battlefield.\r\nIn addition to their heavy armor,\r\nthey are equipped with advanced\r\nweapons and an extremely\r\ndestructive ballistic missile.",
+    "Avatar": "artwork24",
+    "RareColor": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "EffectParticle": "Arrow",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 5,
+    "EffectBothRows": false,
+    "DropRate": 15,
+    "_Health": 17,
+    "_Points": 21,
+    "_Resistances": [
+        {
+            "EffectType": 1,
+            "Power": 5,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 0,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "",
+    "_CounterEffects": [],
+    "_Attacks": [
+        {
+            "EffectType": 1,
+            "Power": 11,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 1,
+    "_RangedEffectParticle": "DragonFire",
+    "_RangedEffectRange": 0,
+    "_RangedEffectBothRows": false
+}

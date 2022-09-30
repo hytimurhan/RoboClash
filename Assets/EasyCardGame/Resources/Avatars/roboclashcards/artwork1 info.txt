@@ -1,0 +1,19 @@
+Seach and Destroy Drone
+
+Attacker
+Melee
+
+Health 3
+
+These drones are designed to quickly sneak close to enemy lines, detect and destroy them.
+
+Attack
+Physical 3
+
+Resistance
+Physical 2
+
+Counter Attack
+Physical 2
+
+Points on Death 5

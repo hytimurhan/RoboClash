@@ -1,0 +1,23 @@
+Junkmaker
+Attacker
+Ranged
+
+Health 17
+
+These robots were produced extremely rarely because they were quite expensive.
+These gigantic robos had no trouble wreaking havoc on the battlefield. In addition
+to their heavy armor, they are equipped with advanced weapons and an extremely
+destructive ballistic missile.
+
+Attacker
+Effect Range 5
+Fire 11
+
+Resistance
+
+Fire 5
+Physical 3
+
+
+Points on Death 21
+

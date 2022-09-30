@@ -1,0 +1,12 @@
+Artillery Attack
+Skill
+Attacker
+
+They will hear the voice of death from above.
+
+Attack
+
+Effect Range 7
+Effects Both Rows
+
+Physical 4

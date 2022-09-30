@@ -1,0 +1,19 @@
+Tracked Ground Drone (Castle)
+Attacker
+Ranged
+Health 11
+
+Attack
+
+Physical 4
+Fire 3 ( default 0 )
+Lightning 3 ( default 0 )
+
+
+Resistance
+
+Physical 3
+Cold 3
+Poison 1
+
+Points on Death 13

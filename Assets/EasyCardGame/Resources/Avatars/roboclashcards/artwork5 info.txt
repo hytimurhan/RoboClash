@@ -1,0 +1,25 @@
+Buthc Champion of North Atlantic Union
+Attacker
+Melee
+
+Health 7
+
+Butch was an officer known as the brightest Robo Driver in the North
+Atlantic Union. Despite his great success in the attack on the Martian
+ Colonies, he got tired of the attitude in the army after the defeat and
+decided to leave. After serving as a mercenary for a while, he participated
+in RoboClash Tournaments as a driver. He is one of the most feared names in the
+arena right now.
+
+Attack
+
+Physical 2
+Cold 3
+
+Resistance
+
+Cold 1
+Magnetic 1
+Elemental 1
+
+Points on Death 6

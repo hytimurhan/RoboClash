@@ -1,0 +1,15 @@
+Fixerobo
+Healer
+
+These robos are repair robos designed to quickly
+reach all units that are heavily damaged and without
+ammunition on the battlefield.
+
+Effect Range 3
+
+Heals By 3
+
+Resistance
+Elemental 2
+
+Points on Death 4

@@ -1,0 +1,23 @@
+Ghunankhan Champion of Spaces Nomads ( Wizard )
+Melee & Ranged
+Atacker
+
+Health 8
+
+Over the years, Ghunankhan has attacked trade ships between the Martian colonies and planet
+earth and looted many stations in space. Thanks to his fame, many warriors began to join him,
+and as a group they called their selfs "the space nomads". They took over a giant space station
+and became a state almost. They sided with the states of the world in the operation to the
+colonies of Mars and all their crimes were forgiven. Ghunankhan, on the other hand, decided to
+protect his reputation by fighting in RoboClash tournaments at the end of the war.
+
+
+
+Attack
+Fire 7 ( Defaul 9 )
+
+Resistance
+Fire 1
+Lightning 1
+
+Points on Death 12 ( Default 14 )

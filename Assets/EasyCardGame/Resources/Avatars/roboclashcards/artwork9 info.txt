@@ -1,0 +1,12 @@
+Missile Rain
+
+Skill
+Attacker
+
+We will rain death on the enemy. And we will enjoy watching them disappear.
+
+Attack
+Effect Range 11
+Effects both Rows
+
+Fire 3

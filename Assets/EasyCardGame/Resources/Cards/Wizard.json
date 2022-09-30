@@ -1,0 +1,80 @@
+{
+    "Name": "Ghunankhan",
+    "Desc": "Over the years, Ghunankhan has attacked\r\ntrade ships between the Martian colonies\r\nand planet earth and looted many stations\r\nin space. Thanks to his fame, many warriors\r\nbegan to join him, and as a group they\r\ncalled their selfs \"the space nomads\".\r\nThey took over a giant space station and\r\nbecame a state almost. They sided with the\r\nstates of the world in the operation to the\r\ncolonies of Mars and all their crimes were\r\nforgiven. Ghunankhan, on the other hand,\r\ndecided to protect his reputation by\r\nfighting in RoboClash tournaments\r\nat the end of the war.",
+    "Avatar": "artwork20",
+    "RareColor": {
+        "x": 0.14417944848537446,
+        "y": 0.6792452931404114,
+        "z": 0.33105888962745669,
+        "w": 0.0
+    },
+    "EffectParticle": "PoisonDagger",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 0,
+    "EffectBothRows": true,
+    "DropRate": 1,
+    "_Health": 8,
+    "_Points": 12,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 1,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 1,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "",
+    "_CounterEffects": [],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 7,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 5
+        }
+    ],
+    "_AttackType": 2,
+    "_RangedEffectParticle": "WarHorn",
+    "_RangedEffectRange": 1,
+    "_RangedEffectBothRows": true
+}

@@ -1,0 +1,80 @@
+{
+    "Name": "Rad K'aalen",
+    "Desc": "Rad K'aalen is one of the first humans born outside the earth.\nRaised as a child of one of the families\r that migrated to the\nMartian Colonies, Rad K'aalenn participated in the colonies\nfirst rebellion againts \rplanet earth. He later joined the army\nand soon his talents were recognized. He gained plenatary\nfame for\r his achievements againts the allience of planet earth\nagaints to the colonies. Currently, he aims to show\r\nthe strength of the colonies by fighting in \nRoboClash tournaments.\r\n",
+    "Avatar": "artwork6",
+    "RareColor": {
+        "x": 0.6886792182922363,
+        "y": 0.07188645005226135,
+        "z": 0.04872729629278183,
+        "w": 0.0
+    },
+    "EffectParticle": "PoisonDagger",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 0,
+    "EffectBothRows": false,
+    "DropRate": 1,
+    "_Health": 7,
+    "_Points": 8,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 1,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 2,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 1,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "",
+    "_CounterEffects": [],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 2,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 2
+        },
+        {
+            "EffectType": 3,
+            "Power": 2,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 0,
+    "_RangedEffectParticle": "Fireball",
+    "_RangedEffectRange": 1,
+    "_RangedEffectBothRows": false
+}

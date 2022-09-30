@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 47fb1e738d12cba40ac99622f89f4298
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Korolev
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61ca8253ca5acdd4abaa3b4d39133668, type: 3}
+  - {fileID: 12800000, guid: 92ef4f90b8a1a174e8a3a716e54a3a05, type: 3}
+  - {fileID: 12800000, guid: c01b27bb30e00484cbc41a8e4ba4ed67, type: 3}
+  - {fileID: 12800000, guid: c197dd10434305d4bb54846f17725daa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

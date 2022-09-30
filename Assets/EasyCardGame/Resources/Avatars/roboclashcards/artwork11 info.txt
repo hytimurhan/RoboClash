@@ -1,0 +1,16 @@
+Bearobo
+
+Health 8
+Attacker
+Melee
+
+There Robo are huge in size with very thick armor and are very
+resistant to high physical attacks.
+
+Attack
+Physical 5
+
+Resistance
+Physical 3
+
+Points on Death 12

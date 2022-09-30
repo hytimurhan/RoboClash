@@ -1,0 +1,15 @@
+Generation 1 Fire Support Robo (Knight)
+Attacker
+Ranged ( Default Melee )
+
+First Generation Robos were modernized and often used to provide fire support missions.
+
+Health 8
+
+Attack
+Physical 4
+
+Resistance
+Physical 3 ( Default 1 )
+
+Point on Death 5 ( Default 9 )

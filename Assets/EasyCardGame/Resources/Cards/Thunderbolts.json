@@ -1,0 +1,44 @@
+{
+    "Name": "Artillery Attack",
+    "Desc": "<i>They will hear the voice of death from above.\r\n.</i>",
+    "Avatar": "artwork18",
+    "RareColor": {
+        "x": 1.0,
+        "y": 0.35718655586242678,
+        "z": 0.3529411554336548,
+        "w": 0.0
+    },
+    "EffectParticle": "Meteor",
+    "CardInteractionType": 1,
+    "CardType": 0,
+    "EffectRange": 2,
+    "EffectBothRows": true,
+    "DropRate": 20,
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 4,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+Yuri Borislava champion of Arctic Ocean Federation
+Attacker
+Ranged
+
+Health 6
+
+Yuri Borislava has made a big name for himself over the years as one
+of the heroes of the Arctic Ocean Federation. During the great war, when
+he witnessed the destruction coused by the robos, he started a rebellion,
+thinking that every robo with artificial intelligence should be destroyed.
+He was pardoned after war is over for displaying his skill at RoboClash 
+tournaments and demonstrating his country's strength.
+
+Attack
+
+Effect Range 2
+Cold 3
+
+Resistance
+Cold 2
+
+Points on Death 7

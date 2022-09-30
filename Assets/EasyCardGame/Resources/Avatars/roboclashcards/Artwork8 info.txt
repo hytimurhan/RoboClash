@@ -1,0 +1,26 @@
+Sentinel
+
+Attacker
+Ranged
+
+Health 6
+
+Sentinels are very expensive and advanced war Robos. With a high offensice
+and counterattack power, these robos were used to protect large post-war
+junkyards and in RoboClash tournaments.
+
+Attack
+
+Effect Range 3
+Fire 2
+
+Resistance
+
+Magnetic 1
+
+Counter Attack
+
+Fire 4
+Magnetic 1
+
+Points on Death 9

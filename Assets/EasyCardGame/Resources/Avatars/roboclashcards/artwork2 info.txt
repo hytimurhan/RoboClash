@@ -1,0 +1,15 @@
+Laser Attack Robo
+Attacker
+Ranged
+
+Health 6
+
+These robos were designed only as mobile war machines
+capable of high accuracy laser attacks.
+
+Attack
+Effect Range 5
+Physical 2
+Magnetic 1
+
+Points on Death 6

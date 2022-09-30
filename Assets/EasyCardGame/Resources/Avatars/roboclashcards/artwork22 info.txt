@@ -1,0 +1,17 @@
+Machine Gun Robo ( gargoyle )
+Attacker
+
+Health 4
+
+These robos were designed only as mobile war machines
+capable of high accuracy machine gun attacks.
+
+Attack
+
+Physical 2 ( Default fire )
+
+Resistance
+
+Physical 3  ( Default fire )
+
+Points on Death 3 ( Default 1 )

@@ -1,0 +1,22 @@
+Second Generation Combat Robo ( Royal Knight )
+Attacker
+Ranged & melee
+
+Health 8
+
+
+The second generation robots are war machines that have been produced during
+the war and have increased attack power. They were developed to be capable of
+both close combat and ranged combat.
+
+
+Attacks
+
+Effect range 2
+Physical 6
+
+Resistance
+Physical 2
+Cold 1
+
+Points on Death 12

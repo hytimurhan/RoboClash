@@ -1,0 +1,106 @@
+{
+    "Name": "Destroyer Robo",
+    "Desc": "Build to withstand all kinds of attacks,\r\ndestroyers are one of the most feared\r\nelements of the battlefield. These robos,\r\nwhich do not hesitate to enter very\r\nclose range due their solid armor, can\r\nperform very destructive attacks\r\nand counterattacks.",
+    "Avatar": "artwork13",
+    "RareColor": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "EffectParticle": "PoisonDagger",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 1,
+    "EffectBothRows": false,
+    "DropRate": 15,
+    "_Health": 8,
+    "_Points": 9,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 2,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 1,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": true,
+    "_CounterEffectParticle": "Explosion",
+    "_CounterEffects": [
+        {
+            "EffectType": 0,
+            "Power": 4,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 6,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 0,
+    "_RangedEffectParticle": "",
+    "_RangedEffectRange": 0,
+    "_RangedEffectBothRows": false
+}

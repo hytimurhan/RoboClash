@@ -1,0 +1,12 @@
+Mortar Attack
+Skill
+Attacker
+
+You better run. Because its gonna rain. Rain of Mortar rounds.
+
+Attack
+
+Effect Range 5
+Effects Both Rows
+
+Lighting 3

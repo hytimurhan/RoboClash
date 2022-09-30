@@ -1,0 +1,25 @@
+Main War Robo
+Health 8
+
+
+Atacker
+Ranged & Melee
+
+These Robots we designed as the main elements of both close and long distance combat.
+
+Attack
+
+Effect Range 3
+Effects Both Rows
+
+Physical 4
+Fire 5
+
+
+Resistance
+
+Physsical 3
+
+
+
+Points on Death 15

@@ -1,0 +1,80 @@
+{
+    "Name": "Xiuying",
+    "Desc": "\rXiuying was trained for many years to become the\nbrightest Robo Driver\r in the far east confederation.\nDisciplined and hardworking, Xiuying has never\r\nembarrassed her country so far.",
+    "Avatar": "artwork7",
+    "RareColor": {
+        "x": 0.24880173802375794,
+        "y": 0.055624768137931827,
+        "z": 0.4716981053352356,
+        "w": 0.0
+    },
+    "EffectParticle": "WarHorn",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 1,
+    "EffectBothRows": false,
+    "DropRate": 1,
+    "_Health": 7,
+    "_Points": 9,
+    "_Resistances": [
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "",
+    "_CounterEffects": [],
+    "_Attacks": [
+        {
+            "EffectType": 4,
+            "Power": 4,
+            "RangedPower": 4
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 1,
+    "_RangedEffectParticle": "LightningBall",
+    "_RangedEffectRange": 1,
+    "_RangedEffectBothRows": false
+}

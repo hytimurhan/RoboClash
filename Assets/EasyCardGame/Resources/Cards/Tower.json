@@ -1,0 +1,106 @@
+{
+    "Name": "Main War Robo",
+    "Desc": "These Robots we designed as the main elements of\nboth close and long distance combat.\r\n",
+    "Avatar": "artwork3",
+    "RareColor": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "EffectParticle": "PoisonDagger",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 1,
+    "EffectBothRows": true,
+    "DropRate": 15,
+    "_Health": 8,
+    "_Points": 15,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": false,
+    "_CounterEffectParticle": "Fireball",
+    "_CounterEffects": [
+        {
+            "EffectType": 0,
+            "Power": 12,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 9,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 4,
+            "RangedPower": 3
+        },
+        {
+            "EffectType": 1,
+            "Power": 5,
+            "RangedPower": 2
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 2,
+    "_RangedEffectParticle": "Arrow",
+    "_RangedEffectRange": 1,
+    "_RangedEffectBothRows": true
+}

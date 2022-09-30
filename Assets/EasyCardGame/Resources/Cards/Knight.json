@@ -1,0 +1,106 @@
+{
+    "Name": "Generation 1 Fire Support Robo",
+    "Desc": "First Generation Robos were modernized and\r\noften used to provide fire support missions.",
+    "Avatar": "artwork12",
+    "RareColor": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "EffectParticle": "Poison",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 0,
+    "EffectBothRows": false,
+    "DropRate": 35,
+    "_Health": 8,
+    "_Points": 5,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": true,
+    "_CounterEffectParticle": "Explosion",
+    "_CounterEffects": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 3,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 4,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 1,
+    "_RangedEffectParticle": "",
+    "_RangedEffectRange": 0,
+    "_RangedEffectBothRows": false
+}

@@ -1,0 +1,106 @@
+{
+    "Name": "Sentinel",
+    "Desc": "Sentinels are very expensive and advanced war Robos.\r\nWith a high offensice and counterattack power,\r\nthese robos were used to protect large post-war\r\njunkyards and in RoboClash tournaments.\r\n",
+    "Avatar": "artwork8",
+    "RareColor": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "EffectParticle": "Arrow",
+    "CardInteractionType": 0,
+    "CardType": 0,
+    "EffectRange": 1,
+    "EffectBothRows": false,
+    "DropRate": 25,
+    "_Health": 6,
+    "_Points": 9,
+    "_Resistances": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 1,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_CounterEnabled": true,
+    "_CounterEffectParticle": "Explosion",
+    "_CounterEffects": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 4,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 1,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_Attacks": [
+        {
+            "EffectType": 0,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 1,
+            "Power": 4,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 2,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 3,
+            "Power": 0,
+            "RangedPower": 0
+        },
+        {
+            "EffectType": 4,
+            "Power": 0,
+            "RangedPower": 0
+        }
+    ],
+    "_AttackType": 1,
+    "_RangedEffectParticle": "",
+    "_RangedEffectRange": 0,
+    "_RangedEffectBothRows": false
+}
